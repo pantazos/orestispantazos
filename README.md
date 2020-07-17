@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Orestis Pantazos GitHub profile! 👋
 
 <!--
 **orestispantazos/orestispantazos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Experienced Java DevOps Engineer with a demonstrated history of working in the computer science industry. Skilled in Java as back-end development and HTML, CSS, and JavaScript as front-end development. Strong support professional with a Bachelor of Science (B.Sc) focused in Computer Science and Master of Science (M.Sc) focused in Software Development.
+
+Technology stack specialisation:
+✓ Front-End Development with HTML, CSS, JavaScript, jQuery, AJAX, Angular.
+✓ Back-End Development with Java. 
