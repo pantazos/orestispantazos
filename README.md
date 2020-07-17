@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Experienced Java DevOps Engineer with a demonstrated history of working in the computer science industry. Skilled in Java as back-end development and HTML, CSS, and JavaScript as front-end development. Strong support professional with a Bachelor of Science (B.Sc) focused in Computer Science and Master of Science (M.Sc) focused in Software Development.
-
+<br>
 Technology stack specialisation:
-✓ Front-End Development with HTML, CSS, JavaScript, jQuery, AJAX, Angular.
-✓ Back-End Development with Java. 
+- Front-End Development with HTML, CSS, JavaScript, jQuery, AJAX, Angular.
+- Back-End Development with Java. 
