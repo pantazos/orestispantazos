@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Experienced Java DevOps Engineer with a demonstrated history of working in the computer science industry. Skilled in Java as back-end development and HTML, CSS, and JavaScript as front-end development. Strong support professional with a Bachelor of Science (B.Sc) focused in Computer Science and Master of Science (M.Sc) focused in Software Development.
-<br>
-Technology stack specialisation:
-- Front-End Development with HTML, CSS, JavaScript, jQuery, AJAX, Angular.
-- Back-End Development with Java. 
+Java Software Engineer, specialized in JBoss/WildFly with a strong interest in DevOps.
+Passionate with databases, integration, APIs, Apache Maven, Android MVVM, MVC.
+Mostly back-end and middleware, but good knowledge in JavaServer Faces, HTML, CSS, JavaScript, jQuery, AJAX, Angular.
+Currently, InsurTech, but very interested in FinTech, Banking, and card transactions. 
