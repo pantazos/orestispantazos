@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Java Software Engineer, specialized in JBoss/WildFly with a strong interest in DevOps.
-Passionate with databases, integration, APIs, Apache Maven, Android MVVM, MVC.
-Mostly back-end and middleware, but good knowledge in JavaServer Faces, HTML, CSS, JavaScript, jQuery, AJAX, Angular.
-Currently, InsurTech, but very interested in FinTech, Banking, and card transactions. 
+[Read about my DevOps journey creating independent Open Source on GitHub projects](https://github.com/opendevopsteam)
+
+* ⭐️ [Become a GitHub Sponsor](https://github.com/sponsors/orestispantazos) - follow my DevOps journey and get weekly updates
+
+Blog posts you may like:
+
+* [🛡 Install Let's Encrypt Certificate on JBoss WildFly in Linux](https://opendevops.dev/install-lets-encrypt-certificate-on-jboss-wildfly-in-linux/)
+* [🛠 Setup WildFly SSL](https://opendevops.dev/setup-wildfly-ssl/)
+* [🛠️ JBoss and WildFly Explained in 3 minutes](https://opendevops.dev/jboss-and-wildfly-explained-in-3-minutes/)
+
+📈 [Let's start working together?](https://opendevops.dev/)
