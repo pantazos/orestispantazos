@@ -24,5 +24,6 @@ Blog posts you may like:
 * [🛡 Install Let's Encrypt Certificate on JBoss WildFly in Linux](https://opendevops.dev/install-lets-encrypt-certificate-on-jboss-wildfly-in-linux/)
 * [🛠 Setup WildFly SSL](https://opendevops.dev/setup-wildfly-ssl/)
 * [🛠️ JBoss and WildFly Explained in 3 minutes](https://opendevops.dev/jboss-and-wildfly-explained-in-3-minutes/)
+* [📱 How to succeed in App Store Connect](https://opendevops.dev/how-to-succeed-in-app-store-connect/)
 
 📈 [Let's start working together?](https://opendevops.dev/)
